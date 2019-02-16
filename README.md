@@ -1,2 +1,2 @@
 # Twitter-Analysis
-A beginner Twitter project for streaming tweets
+A beginner Twitter project for streaming tweets sans credentials
